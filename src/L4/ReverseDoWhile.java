@@ -13,7 +13,5 @@ public class ReverseDoWhile {
         } while(n>0);
 
         System.out.println(ans);
-
-
     }
 }
